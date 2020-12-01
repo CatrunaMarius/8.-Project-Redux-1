@@ -1,3 +1,19 @@
+## 8. Project Redux 1
+### Referince link
+[react-redux NPM](https://www.npmjs.com/package/react-redux)
+
+[redux NPM](https://www.npmjs.com/package/redux)
+
+[redux-logger Npm](https://www.npmjs.com/package/redux-logger)
+
+([Connect documentation](https://react-redux.js.org/api/connect)
+
+[redirect documentation](https://reactrouter.com/web/api/Redirect)
+
+[reselect Npm](https://www.npmjs.com/package/reselect)
+
+[UTF-8 Wingdings](https://www.w3schools.com/charsets/ref_utf_dingbats.asp)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
